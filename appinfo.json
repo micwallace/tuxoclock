@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "micwallace@gmx.com",
+    "longName": "Tux O'Clock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tux.png",
+                "name": "TUX_WATCH",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tux O'Clock",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "1118062b-bdce-476e-af71-5961c7afa6ee",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
