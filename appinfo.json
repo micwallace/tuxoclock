@@ -9,7 +9,7 @@
     "resources": {
         "media": [
             {
-                "file": "resources/images/tux.png",
+                "file": "images/tux.png",
                 "name": "TUX_WATCH",
                 "type": "png"
             }
